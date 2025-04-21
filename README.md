@@ -15,7 +15,7 @@ The ZIP file includes six MATLAB scripts required to run the HGWMPA algorithm:
 | `levy.m`           | Generates Levy flight-based random numbers for MPA-style random walks. |
 | `Get_F.m`          | Defines benchmark test functions (e.g., F1 to F23) and returns their lower/upper bounds and objective function handles. |
 | `func_plot.m`      | Plots 2D/3D visualizations of the test functions. |
-| `main.m` or `demo.m`| Main demo file (integrated in HGWMPA.m in this version). Runs the optimization and plots results. |
+| `mainHGWMPA.m``| Main file (integrated in HGWMPA.m in this version). Runs the optimization and plots results. |
 
 ## 📈 Algorithm Highlights
 
